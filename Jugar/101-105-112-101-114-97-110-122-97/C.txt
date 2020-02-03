@@ -1,0 +1,3 @@
+Ivan: !Lo hemos logrado¡
+Lenv: Pasamos la primera barrera
+Ivan: si, aun asi nos falta la segunda
